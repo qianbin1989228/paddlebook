@@ -11,5 +11,5 @@
 [资源链接](https://aistudio.baidu.com/datasetdetail/251514)
 
 ## 第4章：目标检测（二维码扫码枪）
-[资源链接]()
+[资源链接](https://aistudio.baidu.com/datasetdetail/103078)
 
