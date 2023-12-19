@@ -4,5 +4,8 @@
 ## 1、图像处理基础
 [资源链接](https://aistudio.baidu.com/datasetdetail/253430)
 
+## 2、深度学习基础
+[资源链接](https://aistudio.baidu.com/datasetdetail/252154)
+
 
 
