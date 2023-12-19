@@ -8,7 +8,7 @@
 [资源链接](https://aistudio.baidu.com/datasetdetail/252154)
 
 ## 第3章：图像分类（智能垃圾分拣器）
-[资源链接](https://aistudio.baidu.com/datasetdetail/252154)
+[资源链接](https://aistudio.baidu.com/datasetdetail/251514)
 
 
 
