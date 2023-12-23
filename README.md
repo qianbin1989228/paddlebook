@@ -13,3 +13,5 @@
 ## 第4章：目标检测（二维码扫码枪）
 [资源链接](https://aistudio.baidu.com/datasetdetail/103078)
 
+## 第5章：语义分割（证件照制作工具）
+[资源链接](https://aistudio.baidu.com/datasetdetail/253252)
