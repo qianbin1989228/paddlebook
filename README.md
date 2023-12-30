@@ -24,6 +24,9 @@
 * **第5章** 语义分割（证件照制作工具）：
 [资源链接](https://aistudio.baidu.com/datasetdetail/253252)
 
+* **第7章** 关键点检测（身份证识读APP）：
+[资源链接](https://aistudio.baidu.com/datasetdetail/237276)
+
 * **第8章** 风格迁移（照片动漫化在线转换网站）：
 [资源链接](https://aistudio.baidu.com/datasetdetail/244532)
 
