@@ -39,7 +39,7 @@
 </div>
 
 * **项目合作**：
-项目咨询或商务合作请添加微信 **xiaobenbenplus**，添加时请填写备注信息：**来自图书推荐**！
+项目咨询或商务合作请添加祝老师微信 **xiaobenbenplus**，添加时请填写备注信息：**来自图书推荐**！
 <div align='center'>
   <img src='./docs/wechat.jpg'width='160' height='220'/>
 </div>
