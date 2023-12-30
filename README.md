@@ -39,8 +39,8 @@
 </div>
 
 * **项目合作**：
-项目咨询或商务合作请添加朱老师微信 **zhuguosheng--**，添加时请填写备注信息：**来自图书推荐**！
+项目咨询或商务合作请添加朱老师微信 **xiaobenbenplus**，添加时请填写备注信息：**来自图书推荐**！
 <div align='center'>
 <img src='./docs/wechat.jpg'width='120' height='120'/>
-  <img src='./docs/wechat.png'width='300' height='120'/>
+  <img src='./docs/wechat.jpg'width='300' height='120'/>
 </div>
