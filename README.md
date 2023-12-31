@@ -24,6 +24,9 @@
 * **第5章** 语义分割（证件照制作工具）：
 [资源链接](https://aistudio.baidu.com/datasetdetail/253252)
 
+* **第6章** 实例分割（肾小球影像分析仪）：
+[资源链接](https://aistudio.baidu.com/datasetdetail/240620)
+
 * **第7章** 关键点检测（身份证识读APP）：
 [资源链接](https://aistudio.baidu.com/datasetdetail/237276)
 
