@@ -1,13 +1,13 @@
 # 《深度学习与图像处理(PaddlePaddle版)》
 
 <div align='center'>
-  <img src='./docs/book.jpg'width='200' height='266'/>
+  <img src='./docs/book.jpg'width='750' height='266'/>
 </div>
 
 ## 🔥 最新动态
 
 - 🔥**2024.10.1**🔥：新书上架
-  - **💙 个人购买链接🔗：** 京东、淘宝、当当
+  - **💙 个人购买链接🔗：** [京东](https://item.jd.com/10120353190089.html)、淘宝、当当
   - **👩‍🏫 学校教材批量购买链接🔗：** 清华出版社
 
 
@@ -41,7 +41,7 @@
 * **书籍相关技术问题探讨**：
 扫描二维码加入本书QQ群**820106877**，获得更高效的问题答疑，与各行业开发者交流讨论，期待您的加入！
 <div align='center'>
-  <img src='./docs/qq.png'width='200' height='200'/>
+  <img src='./docs/qq.jpg'width='200' height='200'/>
 </div>
 
 * **项目合作**：
