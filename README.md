@@ -1,7 +1,7 @@
 # 《深度学习与图像处理(PaddlePaddle版)》
 
 <div align='center'>
-  <img src='./docs/book.jpg'width='750' height='266'/>
+  <img src='./docs/book.jpg'width='900' height='350'/>
 </div>
 
 ## 🔥 最新动态
